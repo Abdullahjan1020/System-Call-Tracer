@@ -1,0 +1,1 @@
+Usage: ./mytrace <command> [args...]
